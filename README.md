@@ -1,2 +1,2 @@
 # portfolio.v
-this is for 1st try purpose
+this is my first github repo for try purpose
